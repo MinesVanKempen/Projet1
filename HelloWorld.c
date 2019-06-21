@@ -2,6 +2,6 @@
 
 int main(){
 
- printf("hello world\n");
+ printf("Hello Nico\n");
  /* ceci est un commentaire  */
 }
